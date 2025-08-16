@@ -19,7 +19,39 @@
 - 📫 How to reach me **yuvraj9507@gmail.com**
 
 - ⚡ Fun fact **I think......**
+## 👨‍💻 About Me  
+- 🎓 B.Tech in **Computer Science & Engineering** at KIIT University (2022–2026)  
+- 💡 Passionate about **Full-Stack Development, AI/ML, and Cloud Computing**  
+- 🔭 Currently exploring **GenAI & CUDA GPU Programming**  
+- 🌱 Always eager to learn and collaborate on open-source & real-world projects  
 
+---
+
+## 🔧 Tech Stack  
+
+**Languages:** C/C++, Java, Python, JavaScript, SQL  
+**Web Development:** MERN (MongoDB, Express, React, Node.js), HTML, CSS, Bootstrap, Tailwind  
+**AI/ML Tools:** Pandas, NumPy, Scikit-learn, Power BI  
+**Others:** Git, GitHub, APIs, Vercel, Docker (basic)  
+
+---
+
+## 📌 Projects  
+
+- 🔹 **[SHL Assessment Recommendation System](#)** – Built with LLMs, RAG, and vector search  
+- 🔹 **[Zerodha Clone](#)** – Full-stack stock trading platform (React + MongoDB)  
+- 🔹 **[Parking Lot System (OOPJ)](#)** – Java OOP-based parking lot simulation  
+- 🔹 **[Box Office Revenue Prediction](#)** – ML model predicting movie revenue using regression  
+
+---
+
+## 🏆 Achievements  
+
+- ⚡ Selected for **NVIDIA Internship** (LLVM Compiler Engineer)  
+- ⚡ **Hack Vega** – Certificate of Merit  
+- ⚡ **Smart India Hackathon 2024** – Team Member  
+- ⚡ **ICDCIT Summit Participant**  
+- ⚡ Volunteering with **YRC KIIT**  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kishan-kumar-783784221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kishan-kumar-783784221/" height="30" width="40" /></a>

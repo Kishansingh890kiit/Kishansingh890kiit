@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kishan Kumar</h1>
-<h3 align="center">CS Student @ KIIT | MERN Stack Developer | Aspiring AI Engineer</h3>
+<h3 align="center">CS Student @ KIIT Data Analyst| MERN Stack Developer | Aspiring AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishansingh890kiit&label=Profile%20views&color=0e75b6&style=flat" alt="kishansingh890kiit" /> </p>
 
